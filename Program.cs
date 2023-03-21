@@ -43,7 +43,7 @@ Console.WriteLine($"Sum of digits in number {num} equals {SUM(num)}");
 
 //Task 29.
 
-int[] CreateRandomArray(int size, int minvalue, int maxvalue)
+/* int[] CreateRandomArray(int size, int minvalue, int maxvalue)
 {
     int[] array = new int[size];
     
@@ -73,3 +73,4 @@ int max = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = CreateRandomArray(length, min, max);
 WriteArray(myArray);
+*/
